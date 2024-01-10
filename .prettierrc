@@ -8,7 +8,7 @@
   "semi": false,
   "singleQuote": true,
   "tabWidth": 2,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "bracketSameLine": false,
   "embeddedLanguageFormatting": "auto",
   "htmlWhitespaceSensitivity": "css",
